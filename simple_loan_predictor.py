@@ -415,4 +415,4 @@ if __name__ == "__main__":
     print("\n" + "="*50)
     print("✅ Simple loan predictor completed!")
     print("✅ Using actual CSV data for predictions")
-    print("✅ Created by Japneet Singh Anand")
+    print("✅ Created by Vansh Rathee")
